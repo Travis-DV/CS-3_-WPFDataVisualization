@@ -1,0 +1,50 @@
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.exe
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.deps.json
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.runtimeconfig.json
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.pdb
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.csproj.AssemblyReference.cache
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization_MarkupCompile.cache
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization_MarkupCompile.lref
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.g.resources
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.AssemblyInfoInputs.cache
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.AssemblyInfo.cs
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.csproj.CoreCompileInputs.cache
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataV.55257484.Up2Date
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\refint\WPFDataVisualization.dll
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.pdb
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.genruntimeconfig.cache
+C:\Users\travis\source\repos\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\ref\WPFDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.csproj.AssemblyReference.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization_MarkupCompile.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization_MarkupCompile.lref
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\refint\WPFDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\WPFDataVisualization.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.g.resources
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataV.55257484.Up2Date
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\WPFDataVisualization.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\WPFDataVisualization\WPFDataVisualization\obj\Debug\net8.0-windows\ref\WPFDataVisualization.dll
